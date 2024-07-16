@@ -1,4 +1,4 @@
-# Twitter Clone
+# Twitter Clone built with flutter and appwrite
 
 ## Features
 
